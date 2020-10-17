@@ -21,7 +21,9 @@ Tweets have been pulled from Twitter. It contains approximately 3700 tweets that
 
 ## Data visualization
 
-PUT SOME IMAGES
+![alt text](https://github.com/gaetanlop/Covid_tweets_analysis/blob/main/bi_grams_tweets.PNG)
+![alt text](https://github.com/gaetanlop/Covid_tweets_analysis/blob/main/wordcloud%20tweets.PNG)
+![alt text](https://github.com/gaetanlop/Covid_tweets_analysis/blob/main/classes_tweets.PNG)
 
 ## Code and Resources Used
 
