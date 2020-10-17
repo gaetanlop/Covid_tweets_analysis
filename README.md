@@ -1,6 +1,6 @@
 # Covid_tweets_analysis
 
-In this project, I wanted to explore how people feel regarding the pandemic. Therefore, I decided to analyze tweets about Covid.
+In this project, I wanted to explore how people feel at the "beginning" of the pandemic. I want to do that, in order to compare the feeling of people at the beginning of the pandemic and now after more than 6 months. I think it could be a very interesting study. Therefore, in this repo, I decided to analyze tweets about Covid between February and March 2020. I will do the same thing with tweets between September and October 2020 soon.
 * Text preprocessing: removed https link, removed punctuations, lowered the text, removed stopwords.
 * Performed a sentiment analysis of the different tweets.
 * Looked at the most common words (N_grams).
@@ -10,7 +10,13 @@ In this project, I wanted to explore how people feel regarding the pandemic. The
 
 ## Results
 
-* 
+Three things stricked me the most:
+* The most impressive thing is that there are more positive tweets than negative ones. In my opinion, this is a really good thing, and that explains the general positive good vibe during the quarantine period. It will be interesting to check if in September, there are still more positive tweets. I do not think it will be the case, since people are more and more annoyed by the situation.
+*
+*
+## About the Data
+
+Tweets have been pulled from Twitter. It contains approximately 3700 tweets that have been classified manually. Apart from the Original tweets, the dataset contains information about the Location and the tweet date. One import thing to note is that the tweets are between February to March 2020. I decided to use this old dataset because I want to compare at the "beginning" of the pandemic and now after more than 6 months. I will do this second analysis soon.
 
 ## Code and Resources Used
 
