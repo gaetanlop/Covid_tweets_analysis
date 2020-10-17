@@ -18,6 +18,10 @@ Three things stricked me the most:
 
 Tweets have been pulled from Twitter. It contains approximately 3700 tweets that have been classified manually. Apart from the Original tweets, the dataset contains information about the Location and the tweet date. One import thing to note is that the tweets are between February to March 2020. I decided to use this old dataset because I want to compare at the "beginning" of the pandemic and now after more than 6 months. I will do this second analysis soon.
 
+## Data visualization
+
+PUT SOME IMAGES
+
 ## Code and Resources Used
 
 **Python Version:** 3.7
